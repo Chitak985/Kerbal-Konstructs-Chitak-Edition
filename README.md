@@ -1,5 +1,7 @@
-Kerbal Konstructs
+Chitak Kerbal Konstructs
 =================
+
+This mod was forked from the original Kerbal Konstructs mod.
 
 What is it?
 -----------
